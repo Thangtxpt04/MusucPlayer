@@ -203,6 +203,9 @@ body
     opacity: 1;
 
 }
+.user-name {
+    color: #ec1f55;;
+}
 .playlist__currentSong
 {
     width: 100%;
