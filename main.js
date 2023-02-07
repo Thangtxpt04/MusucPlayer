@@ -210,7 +210,7 @@ const app = {
       name: "Love me more",
       singer: "THE SHEEP",
       path: "./assets/music/LoveMeMore-TheSheep-6040474 (1).mp3",
-      img: "./assets/img/love-you-more.jpg",
+      img: "./assets/img/Love-you-more.jpg",
     },
     {
       name: "Em là nhất",
