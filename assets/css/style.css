@@ -204,7 +204,8 @@ body
 
 }
 .user-name {
-    color: #ec1f55;;
+    color: #ec1f55;
+    font-weight: 700;
 }
 .playlist__currentSong
 {
